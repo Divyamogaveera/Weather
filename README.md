@@ -1,3 +1,7 @@
+![image](https://github.com/Divyamogaveera/Weather/assets/85350201/4506554b-b84c-4dd0-bbf3-cb38e89b5b57)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
